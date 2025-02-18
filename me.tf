@@ -5,6 +5,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg1" {
-  name     = "rg167"
+  name     = "rg169"
   location = "westus"
 }
